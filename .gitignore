@@ -1,0 +1,17 @@
+.DS_Store
+/vendor/
+
+web/sites/*/settings*.php
+web/sites/*/services*.yml
+
+web/sites/*/files
+web/sites/*/private
+
+web/sites/simpletest
+
+*/files
+*/private
+
+web/core
+web/modules/contrib
+web/themes/contrib
